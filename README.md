@@ -46,7 +46,7 @@ Incluye los conceptos fundamentales de la programación:
 
 ---
 
-## 📝 Primer Taller Práctico (20 ejercicios)
+## 📝 Taller Práctico (20 ejercicios)
 
 Durante el taller se trabajó con un DataFrame denominado **`df_ventas`**, el cual contenía:
 
@@ -81,7 +81,8 @@ Los ejercicios permitieron reforzar:
 19. Identificación del producto más rentable  
 20. Exportación del resultado final a CSV  
 
-Este taller integra los conceptos claves del análisis de datos en un escenario práctico y aplicado.
+👉 Puedes ver el notebook completo del taller aquí:  
+📌 **[CangrejoRobayoT1.ipynb](https://github.com/FernandaRobayo/ProyectoCangrejoRobayo/blob/main/01-%20Primer%20Taller/CangrejoRobayoT1.ipynb)**
 
 ---
 
@@ -89,7 +90,7 @@ Este taller integra los conceptos claves del análisis de datos en un escenario 
 - Python 3  
 - NumPy  
 - Pandas  
-- Google Colab  
+- Google Colab / Jupyter Notebook  
 - Git y GitHub  
 
 ---
